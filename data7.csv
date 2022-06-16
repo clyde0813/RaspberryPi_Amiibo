@@ -1,0 +1,4 @@
+S3,에뜨와르,hf mfu eload -f 에뜨와르.eml,hf 14a sim -t 7 -u 0487BC7A764C80
+S4,피카,hf mfu eload -f 피카.eml,hf 14a sim -t 7 -u 044EBBA22D4C80
+S5,첼시,hf mfu eload -f 첼시.eml,hf 14a sim -t 7 -u 049D1CDA774C80
+S6,토비,hf mfu eload -f 토비.eml,hf 14a sim -t 7 -u 042C38BA774C81
